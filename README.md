@@ -97,6 +97,7 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
   <br>JavaScript
 </td>
 
+
   </tr>
 </table>
 
@@ -116,6 +117,10 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
           <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
+                <!-- Live Demo Button -->
+      <a href="https://your-live-demo-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
         </p>
         <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
       </div>
