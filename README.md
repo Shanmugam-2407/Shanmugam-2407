@@ -52,13 +52,13 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
 <table>
   <tr>
   <td width="50%">
-      <h3 align="center">Netflix DevSecOps</h3>
+      <h3 align="center">Netflix Interface</h3>
       <div align="center">
         <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
           <img src="https://github.com/Prakash2819/Netflix-DevSecOps/blob/main/public/assets/thumbnail.gif" width="350" alt="Project"/>
         </a>
         <p>
-          <a href="https://github.com/Prakash2819/Netflix-DevSecOps" target="_blank">
+          <a href="https://github.com/Shanmugam-2407/Netflix-Interface.git" target="_blank">
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
                 <!-- Live Demo Button -->
