@@ -62,7 +62,7 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
             <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
           </a>
                 <!-- Live Demo Button -->
-      <a href=" https://netflix-interface-tawny.vercel.app/" target="_blank">
+      <a href="https://netflix-interface-tawny.vercel.app/" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
       </a>
         </p>
