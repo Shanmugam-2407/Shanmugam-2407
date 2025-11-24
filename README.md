@@ -2,8 +2,8 @@
   <h1>👋 Hello, I'm Shanmugham Jagadeshan</h1>
   <p>
     <img src="https://img.shields.io/badge/WebDeveloper-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="WebDeveloper Enthusiast"/>
-    <img src="https://img.shields.io/badge/SRE-Engineer-326CE5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SRE Engineer"/>
-    <img src="https://img.shields.io/badge/Cloud-Engineer-326CE5?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Engineer"/>
+    <img src="https://img.shields.io/badge/WebDeveloper-Enthusiast-326CE5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="WebDeveloper-Enthusiast"/>
+    <img src="https://img.shields.io/badge/WebDeveloper-Enthusiast-326CE5?style=for-the-badge&logo=amazonaws&logoColor=white" alt="WebDeveloper-Enthusiast"/>
   </p>
 </div>
 
