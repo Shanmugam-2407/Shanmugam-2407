@@ -91,10 +91,12 @@ I'm a DevOps Engineer who enjoys building scalable infrastructure, automating de
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana" width="48" height="48" />
       <br>Grafana
     </td>
-        <td align="center" width="96">
-      <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" alt="Argo CD" width="48" height="48" />
-      <br>Argo CD
-    </td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
+       alt="JavaScript" width="48" height="48" />
+  <br>JavaScript
+</td>
+
   </tr>
 </table>
 
