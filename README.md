@@ -9,7 +9,7 @@
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/3001/3001758.png" alt="About Me">&nbsp;&nbsp;About Me
 </h2>
 
-I'm a DevOps Engineer who enjoys building scalable infrastructure, automating deployment processes, and enhancing system reliability. I specialize in designing CI/CD pipelines, container orchestration, and cloud-based environments that make development faster and more efficient. My focus is on creating solutions that balance simplicity, performance, and resilience — driven by a curiosity to understand how systems work and how to make them work better.
+I'm a passionate Web Developer focused on creating responsive, user-friendly, and visually appealing websites. I specialize in building clean interfaces using HTML, CSS, and JavaScript, and I enjoy turning ideas into functional, smooth, and engaging web experiences. My goal is to write efficient code, improve performance, and deliver designs that work seamlessly across all devices. I’m constantly learning and exploring new frontend techniques to build better and more impactful web solutions.
 
 <h2>
   <img width="24" src="https://cdn-icons-png.flaticon.com/512/6295/6295417.png" alt="Skills">&nbsp;&nbsp;Technical Skills
