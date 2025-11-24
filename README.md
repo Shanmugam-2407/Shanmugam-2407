@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋 Hello, I'm Prakash Erusagoundar</h1>
+  <h1>👋 Hello, I'm Shanmugham Jagadeshan</h1>
   <p>
     <img src="https://img.shields.io/badge/DevOps-Enthusiast-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="DevOps Enthusiast"/>
     <img src="https://img.shields.io/badge/SRE-Engineer-326CE5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="SRE Engineer"/>
