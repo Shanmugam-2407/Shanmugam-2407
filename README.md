@@ -38,9 +38,10 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
       <br>GH Actions
     </td>
         <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" alt="CI/CD" width="48" height="48" />
-      <br>CI/CD
-    </td>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" 
+       alt="JavaScript" width="48" height="48" />
+  <br>JavaScript
+</td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -94,7 +95,6 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
        alt="JavaScript" width="48" height="48" />
   <br>JavaScript
 </td>
-
 
   </tr>
 </table>
