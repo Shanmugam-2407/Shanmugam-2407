@@ -62,7 +62,7 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
         <img src="https://img.shields.io/badge/Live_Demo-28A745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
       </a>
         </p>
-        <p><strong>Jenkins, Docker, Kubernetes, ArgoCD</strong> — Implemented a Netflix-inspired CI/CD pipeline integrating automated testing, security checks, and dynamic monitoring for reliable cloud delivery.</p>
+        <p><strong>HTML, CSS, JavaScript</strong> — Created a simple Netflix-style interface with a banner, movie cards, buttons, and responsive design to give a clean and modern user experience.</p>
       </div>
     </td>
     <td width="50%">
