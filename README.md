@@ -72,7 +72,7 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
         <p>
           <img src="https://img.shields.io/badge/WebDvelopment-Tools-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="WebDevelopment Tools"/>
         </p>
-        <a href="[https://github.com/Shanmugam-2407?tab=repositories]" target="_blank">
+        <a href="https://github.com/Shanmugam-2407?tab=repositories" target="_blank">
           <img src="https://img.shields.io/badge/View%20All%20Repositories-212121?style=for-the-badge&logo=github&logoColor=white" alt="View All"/>
         </a>
       </div>
