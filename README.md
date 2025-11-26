@@ -66,37 +66,6 @@ I'm a passionate Web Developer focused on creating responsive, user-friendly, an
       </div>
     </td>
     <td width="50%">
-    <h3 align="center">Swiggy DevSecOps</h3>
-      <div align="center">
-        <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-          <img src="https://github.com/Prakash2819/DevSecOps-Swiggy-Project/blob/main/Photos/thumbnail.gif" width="350" alt="Project"/>
-        </a>
-        <p>
-          <a href="https://github.com/Prakash2819/DevSecOps-Swiggy-Project.git" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-          </a>
-        </p>
-        <p><strong>Docker, Kubernetes, Jenkins, SonarQube, Trivy, Prometheus</strong> — A complete DevSecOps pipeline implementation for the Swiggy application, featuring automated CI/CD, security scanning, container orchestration, and monitoring.</p>
-      </div>
-      
-  </tr>
-  <tr>
-  <td width="50%">
-      <h3 align="center">Spotify Infrastructure Automation</h3>
-      <div align="center">
-        <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-          <img src="https://github.com/Prakash2819/Terraform-Spotify/blob/main/providers/thumbnail.gif" width="350" alt="Project"/>
-        </a>
-        <p>
-          <a href="https://github.com/Prakash2819/Terraform-Spotify" target="_blank">
-            <img src="https://img.shields.io/badge/Code-00ADD8?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/>
-          </a>
-        </p>
-          <p><strong>Terraform, AWS</strong> — Automated Spotify infrastructure provisioning with modular, scalable IaC for cloud-native deployment.</p>
-      </div>
-    </td>
-    </td>
-    <td width="50%">
       <h3 align="center">Explore More Projects</h3>
       <div align="center">
         <p>Check out my repositories for more projects showcasing my skills in:</p>
